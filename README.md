@@ -22,6 +22,7 @@
 
 ## 📞 Contact me!
 ### [Email](mailto:decave27@gmail.com)
+### [Discord Server](https://discord.gg/SksjBSvuMn)
 
 ## 🏢 Teams
 ### [UniqueCode (Discord)](https://discord.gg/ARCdUzC)
