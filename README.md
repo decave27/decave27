@@ -4,9 +4,10 @@
 
 ### Work
 
-- ~~[UniqueCode - FreeAI](https://discord.gg/ARCdUzC)~~
+- [UniqueCode - FreeAI](https://discord.gg/ARCdUzC)
 - [WadeStudio - Limu](https://discord.gg/3k9hAdfpNB)
 - [Team Kat](https://discord.gg/R5UG5mR)
+- [PH Bot](https://discord.gg/67KSaxZXu9)
 
 ### Contact
 
@@ -17,15 +18,12 @@
 
 ### Developing
 
-- ~~[FreeAI](https://discord.gg/ARCdUzC)~~
-- ~~[UniqueBots-PySdk](https://github.com/UniqueCodeGit/uniquebots-py-sdk)~~
+- [FreeAI](https://discord.gg/ARCdUzC)
+- [UniqueBots-PySdk](https://github.com/UniqueCodeGit/uniquebots-py-sdk)
+- [PH Bot](https://discord.gg/67KSaxZXu9)
 - [Limu](https://discord.gg/3k9hAdfpN)
 - [dptpy](https://github.com/decave27/dptpy)
 - [revar](https://github.com/decave27/revar)
-- [ClickSansDesktop](https://github.com/decave27/ClickSansDesktop)
-- [NewYearCountDown](https://github.com/decave27/newyear-countdown)
-- [CustomCmd](https://github.com/decave27/Customcmd)
-- [AutoStock](https://github.com/decave27/autostock)
 
 ### Github Status
 
