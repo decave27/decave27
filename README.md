@@ -52,7 +52,7 @@
 ![Java](https://img.shields.io/badge/-Java-E34A86?style=flat-square&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=Python&logoColor=white)
 
-###My statistics
+### My statistics
 [![Github Status](https://github-readme-stats.vercel.app/api?username=decave27&show_icons=true&layout=compact&theme=dark)](https://github.com/decave27)
 
 ### Others
